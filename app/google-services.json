@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "967295829083",
+    "project_id": "agoratest-181ce",
+    "storage_bucket": "agoratest-181ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967295829083:android:82b3e3733598b8faf02b7e",
+        "android_client_info": {
+          "package_name": "com.example.whatsappagora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967295829083-tfkotau04kvp7leen5qoq48nfd5ui7g4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsappagora",
+            "certificate_hash": "7c1b3c0664812b5efa184f59e515fb18d30a1097"
+          }
+        },
+        {
+          "client_id": "967295829083-o8e9g8392unp6m6pjcvdfuldfqj5coia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc1KU7c1OilIQsMtXgd8e_KClSyugIdCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967295829083-o8e9g8392unp6m6pjcvdfuldfqj5coia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
